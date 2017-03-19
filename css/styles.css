@@ -1,0 +1,46 @@
+.quote-box {
+    border: solid;
+    border-radius: 3px;
+    position: relative;
+    margin: 8% auto auto auto;
+    width: 450px;
+    padding: 40px 50px;
+    display: table;
+    background-color: #fff;
+    box-shadow: 10px 10px grey;
+}
+
+.quote {
+    text-align: center;
+    font-family: avenir;
+    font-weight: 700;
+    font-size: 1.80em;
+}
+
+.author {
+    text-align: center;
+    padding: 20px;
+    font-family: avenir;
+    font-weight: 500;
+    font-size: 1.25em;
+}
+
+.button1 {
+    outline: none;
+    float: right;
+    border: none;
+    border-radius: 1px;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+.button2 {
+    outline: none;
+    float: left;
+    border: none;
+    border-radius: 1px;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}
