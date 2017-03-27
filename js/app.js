@@ -27,7 +27,7 @@ $(document).ready(function() {
                 document.getElementById('author').innerHTML = author;
             },
             beforeSend: function(xhr) {
-                xhr.setRequestHeader("X-Mashape-Authorization", "PywLy38dVSmsh96UqNx0URBDIoGsp102JHdjsn27WKNeJV37Kl");
+                xhr.setRequestHeader("X-Mashape-Authorization", "LsFa8WckuDmsh1ETbA9ddv7AoXIOp1zQVrljsnJS5C65zWmouA");
             }
         });
     }
