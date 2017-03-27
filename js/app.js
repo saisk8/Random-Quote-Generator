@@ -16,7 +16,7 @@ $(document).ready(function() {
 
     function createQuote() {
         var output = $.ajax({
-            url: 'https://andruxnet-random-famous-quotes.p.mashape.com/cat=',
+            url: 'https://andruxnet-random-famous-quotes.p.mashape.com/cat=famous',
             type: 'GET',
             data: {},
             dataType: 'json',
