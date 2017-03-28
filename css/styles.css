@@ -6,7 +6,7 @@
     width: 450px;
     padding: 40px 50px;
     display: table;
-    background-color: #fff;
+    background-color: #ffffff;
     box-shadow: 10px 10px grey;
 }
 
@@ -30,8 +30,8 @@
     float: right;
     border: none;
     border-radius: 1px;
-    background-color: #000;
-    color: #fff;
+    background-color: #000000;
+    color: #ffffff;
     cursor: pointer;
 }
 
@@ -40,7 +40,7 @@
     float: left;
     border: none;
     border-radius: 1px;
-    background-color: #000;
-    color: #fff;
+    background-color: #000000;
+    color: #ffffff;
     cursor: pointer;
 }
